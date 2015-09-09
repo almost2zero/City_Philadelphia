@@ -1,0 +1,86 @@
+.logo{
+	width: 150px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.join-button{
+	width: 200px;
+
+}
+
+body{
+	background-image:url("images/CityPhilly.jpg");
+	background-size: cover;
+	color: white;
+/*	text-align: center;*/
+}
+
+.head{
+	font-size: 60px;
+	color:white;
+	font-weight: bold;
+}
+
+.head2{
+	font-size: 25px;
+	color:white;
+}
+
+
+.head3{
+	font-size: 15px;
+	color:white;
+	font-style: italic;
+
+}
+
+
+
+.thin {
+	height: 3px;
+	border: 0;
+	color: #333;
+	background-color: white;
+	width: 60%;
+} 
+.row1{
+	text-align: center;
+
+}
+
+.row2{
+	text-align: center;
+
+}
+
+.buttons{
+	width:70px;
+	float: none;
+    margin: 0 auto;
+    color: white;
+}
+
+
+.row3{
+	width:860px;
+	text-align: center;
+}
+
+/*.row4{
+	width: 900px;
+
+}*/
+
+
+
+.footerbox {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:150px;
+   width:100%;
+   background:black;
+   opacity: 0.4;
+  }*/
